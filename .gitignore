@@ -28,3 +28,8 @@ hs_err_pid*
 /provider-demo/mvnw.cmd
 /consumer-demo/mvnw.cmd
 /consumer-demo/mvnw
+/api-demo/.mvn/
+/api-demo/mvnw.cmd
+/api-demo/mvnw
+/api-demo/api-demo.iml
+/api-demo/target/

@@ -6,25 +6,17 @@
         <groupId>example</groupId>
         <artifactId>dubbo-demo</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <!--<relativePath/>--> <!-- lookup parent from repository -->
     </parent>
-    <artifactId>provider-demo</artifactId>
+    <artifactId>api-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>provider-demo</name>
+    <name>api-demo</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo-spring-boot-starter</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>example</groupId>
-            <artifactId>api-demo</artifactId>
-        </dependency>
+
     </dependencies>
 
     <build>
